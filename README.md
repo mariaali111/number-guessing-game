@@ -10,12 +10,20 @@ This is a simple number guessing game written in C. The program randomly selects
 - Keeps track of number of attempts
 
 ## Sample Output
+<br>
 Welcome to the Guessing Game!
+<br>
 I'm thinking of a number between 1 and 100.
+<br>
 Take a guess: 50
+<br>
 Too low! Try again.
+<br>
 Take a guess: 75
+<br>
 Too high! Try again.
+<br>
 Take a guess: 62
+<br>
 Congratulations! You guessed the number in 3 tries.
 

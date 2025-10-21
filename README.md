@@ -10,7 +10,6 @@ This is a simple number guessing game written in C. The program randomly selects
 - Keeps track of number of attempts
 
 ## Sample Output
-<br>
 Welcome to the Guessing Game!
 <br>
 I'm thinking of a number between 1 and 100.
